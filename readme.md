@@ -44,6 +44,7 @@ pip install numpy pandas matplotlib yfinance scikit-learn tensorflow
 ## 🧑‍💻 Author
 
 * **Priyanshu Mittal**
+* **Jiya Agrawal**
 
 ## 📜 License
 
