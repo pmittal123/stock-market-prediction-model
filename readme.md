@@ -25,7 +25,7 @@ A deep learning model that predicts stock prices using **LSTM (Long Short-Term M
 ## 🗂️ Project Structure
 
 📦StockPricePrediction  
-├── lstm_stock_predictor.py # Main script for training and prediction  
+├── pridiction using lstm.ipynb # Main script for training and prediction  
 ├── README.md # Documentation (you are here)  
 
 
